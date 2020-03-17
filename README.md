@@ -4,7 +4,7 @@ Upload Image by socket client server
 
 Steps : 
 
-1. downloadfile from same git url 
+1. downloadfile from same git url  https://github.com/mayurmehtalink/uploadimagesocketio
 
 2. extract file 
 
